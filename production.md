@@ -39,9 +39,9 @@
 ## 3. Creación base de datos y configuración de la misma
 
 - En la opción de **_cpanel_** -> **_MySQL® Databases_** ingresa
-- Crea la base de datos **_eqiipo_cuycli_api_**
-- Crea un usuario **_eqiipo_api_** y asignale la base de datos creada anteriormente
-- Dirigite al archivo **_.env_** y modifica los siguientes valores
+- Crea la base de datos **_dabatase_tu_app_**
+- Crea un usuario **_user_tu_app_** y asígnale la base de datos creada anteriormente
+- Dirígete al archivo **_.env_** y modifica los siguientes valores
 - En el archivo **.env.example.prod** puedes encontrar el ejemplo de como serían los datos esperados en el entorno de
   producción
 
